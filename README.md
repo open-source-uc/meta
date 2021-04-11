@@ -1,11 +1,6 @@
 # meta
-Los Mandamientos (Das Rules) de Open Source UC
-
-
+Los Mandamientos (Da Rules) de Open Source UC
 <img src="https://github.com/open-source-uc/meta/blob/main/darules.jpg?raw=true" height="200px">
-
-# meta
-Los Mandamientos (Das Rules) de Open Source UC
 
 Este cuerpo de reglas provee el fundamento para la organización Open Source UC y las decisiones tomadas en ella.
 
