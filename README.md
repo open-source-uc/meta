@@ -5,6 +5,15 @@ Los Mandamientos (Da Rules) de Open Source UC
 
 Este cuerpo de reglas provee el fundamento para la organización Open Source UC y las decisiones tomadas en ella.
 
+## Definición de miembro
+
+### Criterios de entrada (2 mínimo o la 5ta por sí sola) (evaluación en un plazo de 1 mes hacia atrás):
+- Acreditación de aportes significativos en proyectos o comisiones
+- Asistencia a 2 reuniones dentro del mes de plazo
+- Participar en un taller como beneficiario u organizador
+- Resolver al menos un issue/pull request en GitHub o solucionar preguntas de programación en Discord o Telegram.
+- Aportar un proyecto a la organización que cumpla estándares comunitarios (según community profile de github completo y teniendo una licencia permisiva)
+
 ## Votaciones
 Las reuniones de Open Source UC deben contar con 50% de los integrantes de la organización para votar temáticas de forma vinculante.
 
